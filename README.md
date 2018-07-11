@@ -1,2 +1,2 @@
 # Database-Project
-This Project was done as part of course in 3rd year first semester in the versity. I told my course teacher that I want to do a project which will serve as a database for online contest performance.
+This project was designed in a way that it can maintain an online contest.Different operation like creation,deletion,insertion, modification, joining, different queries has been shown in this project.
